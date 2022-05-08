@@ -4,8 +4,8 @@ import { fileURLToPath } from 'url'
 
 global.owner = [
   ['', 'YOUR NAME', true], // PUT YOUR NUMBER HERE
-  //['27634090203']
-  // [number, dia creator/owner?, dia developer?]
+  //['+6281257597419']
+  // [+6281257597419, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [''] // Premium user has unlimited limit PUT YOUR NUMBER HERE
